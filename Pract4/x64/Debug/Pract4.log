@@ -1,0 +1,3 @@
+﻿  Pract4.cpp
+C:\Users\Пользователь\source\repos\Pract4\Pract4\Pract4.cpp(42,84): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pract4.vcxproj -> C:\Users\Пользователь\source\repos\Pract4\x64\Debug\Pract4.exe
